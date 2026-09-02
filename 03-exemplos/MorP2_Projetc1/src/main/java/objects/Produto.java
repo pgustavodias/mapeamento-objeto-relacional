@@ -35,6 +35,13 @@ public class Produto {
 		this.categoria = categoria;
 	  }
 	  
+	  /*Construtor vazio necessário ao Hibernate
+	   * 
+	   */
+	  public Produto() {
+		  
+	  }
+	  
 	  /* Métodos Get e Set
 	   * servem para acessar e modificar os atributos privados 
 	   * de uma classe de forma segura. 
