@@ -148,55 +148,53 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 📌 Semana 11
 
 ### 📅 13/10 (Terça)
+- Semana SI
+
+---
+
+## 📌 Semana 12 
+
+### 📅 20/10 (Terça)
 - Relacionamentos entre entidades
 - Associação, composição e cardinalidade
 
 ---
 
-## 🛠️ Semana 12 — Atividade Prática
-
-### 📅 20/10 (Terça)
-- 🛠️ **Atividade Prática 4**
-- Exercícios sobre relacionamentos
-
----
-
-## 🚀 Semana 13 — Projeto
+## 🛠️ Semana 13 — Atividade Prática
 
 ### 📅 27/10 (Terça)
-- Apresentação do Projeto
-- Orientações gerais
-- Formação das equipes
+- 🛠️ **Atividade Prática 4**
+- Exercícios sobre relacionamentos
 
 ---
 
 ## 🚀 Semana 14 — Projeto
 
 ### 📅 03/11 (Terça)
-- Desenvolvimento do Projeto
-- Acompanhamento e orientação
+- Apresentação do Projeto
+- Orientações gerais
+- Formação das equipes
 
 ---
 
-## 🎤 Semana 15 — Apresentação
+## 🚀 Semana 15 — Projeto
 
 ### 📅 10/11 (Terça)
-- 🎤 **Apresentação dos Projetos — Parte 1**
+- Desenvolvimento
 
 ---
 
 ## 🎤 Semana 16 — Apresentação
 
 ### 📅 17/11 (Terça)
-- 🎤 **Apresentação dos Projetos — Parte 2**
+- 🎤 **Apresentação dos Projetos — Parte 1**
 
 ---
 
-## 📌 Semana 17
+## 🎤 Semana 17 — Apresentação
 
 ### 📅 24/11 (Terça)
-- Revisão Geral
-- Preparação para a Avaliação 2
+- 🎤 **Apresentação dos Projetos — Parte 2**
 
 ---
 
@@ -233,10 +231,10 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 08/09 | 🛠️ Atividade Prática 2 |
 | 22/09 | 🛠️ Atividade Prática 3 |
 | 06/10 | 📝 **Avaliação 1** |
-| 20/10 | 🛠️ Atividade Prática 4 |
-| 27/10 | 🚀 Início do Projeto Prático |
-| 10/11 | 🎤 Apresentação dos Projetos — Parte 1 |
-| 17/11 | 🎤 Apresentação dos Projetos — Parte 2 |
+| 27/10 | 🛠️ Atividade Prática 4 |
+| 03/11 | 🚀 Início do Projeto Prático |
+| 17/11 | 🎤 Apresentação dos Projetos — Parte 1 |
+| 24/11 | 🎤 Apresentação dos Projetos — Parte 2 |
 | 01/12 | 📝 **Avaliação 2** |
 | 08/12 | 📝 **2ª Chamada / Avaliação Especial** |
 | 15/12 | 🎓 Encerramento da disciplina |
